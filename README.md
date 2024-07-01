@@ -32,25 +32,6 @@ Type or paste your code into the textarea.
 The code will be automatically syntax-highlighted using PrismJS.
 Edit the code to see real-time syntax highlighting updates.
 
-Folder Structure:
-The project structure is organized as follows:
-simple-code-editor/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   ├── CodeEditor.js
-│   │   ├── CodeEditor.css
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-└── README.md
-
 Code Editor Component:
 The main component responsible for the code editor functionality is CodeEditor.js, which includes the textarea for input and PrismJS integration for syntax highlighting.
 
