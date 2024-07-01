@@ -9,7 +9,9 @@ Technologies Used:
 
 React.js
 PrismJS (for syntax highlighting)
-Features
+
+Features:
+
 Syntax highlighting for various programming languages supported by PrismJS.
 Basic text editing functionalities (e.g., typing, editing, deleting).
 
