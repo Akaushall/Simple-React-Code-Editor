@@ -26,13 +26,13 @@ Clone the repository from GitHub:
 
 **Install dependencies:**
 
-npm install
+- npm install
 
 Start the development server:
 
-npm start
+- npm start
 
-Open your browser and navigate to http://localhost:3000 to view the application.
+- Open your browser and navigate to http://localhost:3000 to view the application.
 
 **Usage:**
 
