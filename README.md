@@ -21,8 +21,8 @@ Basic text editing functionalities (e.g., typing, editing, deleting).
 To run this project locally:
 Clone the repository from GitHub:
 
-git clone <repository-url>
-cd simple-code-editor
+- git clone <repository-url>
+- cd simple-code-editor
 
 **Install dependencies:**
 
@@ -44,6 +44,6 @@ Edit the code to see real-time syntax highlighting updates.
 
 The main component responsible for the code editor functionality is CodeEditor.js, which includes the textarea for input and PrismJS integration for syntax highlighting.
 
-Conclusion:
+**Conclusion:**
 This project serves as a foundational example of how to implement a code editor with syntax highlighting using React and PrismJS. Feel free to customize and expand upon it based on your requirements.
 
