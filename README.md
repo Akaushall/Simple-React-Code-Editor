@@ -36,11 +36,11 @@ Start the development server:
 
 **Usage:**
 
-1 Type or paste your code into the textarea.
+1. Type or paste your code into the textarea.
 
-2 The code will be automatically syntax-highlighted using PrismJS.
+2. The code will be automatically syntax-highlighted using PrismJS.
 
-3 Edit the code to see real-time syntax highlighting updates.
+3. Edit the code to see real-time syntax highlighting updates.
 
 **Code Editor Component:**
 
